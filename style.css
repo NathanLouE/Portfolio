@@ -7,7 +7,10 @@
 }
 .headshot{
     width:20%;
-   
+}
+a{
+    color: white;
+    font-weight:bold;
 }
 .mid{
     display: flex;

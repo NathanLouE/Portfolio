@@ -1,6 +1,17 @@
-img{
-    size: 10px;
-}
+
 body{
-    background-color: aqua;
+    background: linear-gradient(aqua, yellow);
+    text-align:center;
+    padding:20px;
+    font-size:20px;
+}
+h1{
+    color: green;
+}
+a{
+    color: white;
+    font-weight:bold;
+}
+img{
+    width: 70%;
 }

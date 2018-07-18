@@ -1,5 +1,13 @@
 body{
     display: flex;
     justify-content: space-around;
-    background-color: aqua;
+    background: linear-gradient(red, blue);
+    text-align:center;
+    padding:20px;
+    font-size:20px;
+}
+a{
+    text-align:center;
+    color: white;
+    font-weight:bold;
 }
