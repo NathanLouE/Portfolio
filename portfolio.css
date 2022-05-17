@@ -1,7 +1,7 @@
 body{
     display: flex;
     justify-content: space-around;
-    background: linear-gradient(red, blue);
+    background: linear-gradient(red, green);
     text-align:center;
     padding:20px;
     font-size:20px;
